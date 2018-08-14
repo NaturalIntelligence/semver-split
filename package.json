@@ -1,0 +1,21 @@
+{
+  "name": "semver-split",
+  "version": "1.0.0",
+  "description": "A small and fast utility to split semver string in major minor patch version object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semver",
+    "slice",
+    "split",
+    "fast"
+  ],
+  "author": "Amit Gupta (https://github.com/amitguptagwl)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NaturalIntelligence/semver-split"
+  }
+}
